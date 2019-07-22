@@ -17,7 +17,7 @@
 <img src="ToolsMK.PNG">
 
 ```
-<b>Warning:</b> Please backup your file before try or applying or use this tool.
+Warning: Please backup your file before try or applying or use this tool.
 If any file delete for your mistakes it's not our responsibility. We are not responsible .
 Do not use to harm anyone.
 ```
