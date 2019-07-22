@@ -14,7 +14,7 @@
 - [x] Delete Image given image name
 - [x] Exit
 
-<img src="./ToolsMK.PNG" alt"menual"/>
+<img src="ToolsMK.PNG">
 
 ```
 <b>Warning:</b> Please backup your file before try or applying or use this tool.
